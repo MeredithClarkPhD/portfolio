@@ -1,0 +1,22 @@
+h1{
+	font-size:100;
+}
+h2{ 
+font-family: "Palatino";
+ }
+body{
+	color: black;
+}
+{font-family: "Palatino"}
+h2{
+	font-family: "Palatino";
+}
+p.small {
+   line-height: 19;}
+h4{text-transform: uppercase;}
+
+.container {column-count: 3;column-gap: 100px; 
+}
+img
+    {width: 100%; height: 500px;   
+}
